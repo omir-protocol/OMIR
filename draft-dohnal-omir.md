@@ -10,24 +10,18 @@ date:
 consensus: true
 v: 3
 area: AREA
-workgroup: WG Working Group
+workgroup: Faculty of Information Technology Brno University of Technology
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
-venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+ - audio
+ - remote control
+ - amplifier
+ - audio remote control
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: "44980802+DouBall3@users.noreply.github.com"
+    fullname: Ondrej Dohnal
+    organization: Faculty of Information Technology Brno University of Technology
+    email: "ondrej.dohnal3@gmail.com"
 
 normative:
 
