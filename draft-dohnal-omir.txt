@@ -13,7 +13,9 @@ Expires: 5 November 2022
 
 Abstract
 
-   TODO Abstract
+   The Open Musical Internet Remote (OMIR) is an application-level,
+   generic, and stateless protocol which can be used in communication
+   between OMIR capable hardware, and OMIR capable software.
 
 Status of This Memo
 
