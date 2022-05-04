@@ -2,8 +2,8 @@
 
 
 
-WG Working Group                                              Y. N. Here
-Internet-Draft                                    Your Organization Here
+Faculty of Information Technology Brno University of TechnologyO. Dohnal
+Internet-DraftFaculty of Information Technology Brno University of Technology
 Intended status: Informational                                4 May 2022
 Expires: 5 November 2022
 
@@ -14,21 +14,6 @@ Expires: 5 November 2022
 Abstract
 
    TODO Abstract
-
-About This Document
-
-   This note is to be removed before publishing as an RFC.
-
-   The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-dohnal-omir/.
-
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
-
-   Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
 
 Status of This Memo
 
@@ -108,6 +93,6 @@ Acknowledgments
 
 Author's Address
 
-   Your Name Here
-   Your Organization Here
-   Email: 44980802+DouBall3@users.noreply.github.com
+   Ondrej Dohnal
+   Faculty of Information Technology Brno University of Technology
+   Email: ondrej.dohnal3@gmail.com
