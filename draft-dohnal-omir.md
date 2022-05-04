@@ -30,7 +30,9 @@ informative:
 
 --- abstract
 
-TODO Abstract
+The Open Musical Internet Remote (OMIR) is an application-level, generic,
+and stateless protocol which can be used in communication between OMIR 
+capable hardware, and OMIR capable software. 
 
 
 --- middle
